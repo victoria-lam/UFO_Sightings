@@ -3,3 +3,5 @@ Using UFO Sightings data from `data.js`, a table was appended into an html page 
 
 ### Here is a screenshot of the final web page:
 ![webpage](table_filter.png)
+
+### The webpage can be accessed at https://victoria-lam.github.io/UFO_Sightings/
