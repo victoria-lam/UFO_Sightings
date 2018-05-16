@@ -68,9 +68,3 @@ function handleSearchButtonClick() {
 
 // Render table for the first time on page load
 renderTable();
-
-// Create pagination
-//$(document).ready(function () {
-  //  $('myTable').DataTable();
-//});
- 
